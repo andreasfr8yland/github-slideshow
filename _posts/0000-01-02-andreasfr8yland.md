@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Cinderella is proof that a new pair of shoes can change your life!
 Use the left arrow to go back!
